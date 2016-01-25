@@ -3,7 +3,7 @@
  */
 public class print {
     public static void main(String[] args){
-        System.out.println("Napis brancha czwartego");
+        System.out.println("Napis brancha piaty");
 
     }
 }
